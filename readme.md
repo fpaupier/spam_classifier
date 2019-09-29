@@ -1,5 +1,8 @@
 # Spam classifier
 
+In this project I implement a simple spam classifier in Matlab/Octave.
+
+ 
 ## Implementing a spam classifier using Support Vector Machines
 
 SVM enable detection of complex decision boundary more effectively than classic logistic regression most of the times.
@@ -17,7 +20,6 @@ SVM enable detection of complex decision boundary more effectively than classic 
 
 Simply run the `spam_classifier.m` script and the output will be displayed in the console.
 
-
 ## Try with your email
 
 To classify one of your email simply copy and paste its text content into a file (let's say `my_email.txt`) under the 
@@ -33,3 +35,4 @@ Check _honey pot_ project who try to gather as much as spam emails as possible t
 
 ## Note
 This project was part of [Andrew Ng's Mooc on machine learning](https://www.coursera.org/learn/machine-learning) which I strongly recommend.
+This project is no longer updated.
